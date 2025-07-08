@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1>Hi, I'm Marcus! <br/>Cloud Professional, Student, Python Programmer</h1>
+
+<h2>👨‍💻 Proessional Development Projects:</h2>
+
+- KodeKloud Platform Practice
+- WGU Student, B.S. Cloud Computing
+
 
 <!--
 **marcus-singleton/marcus-singleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
