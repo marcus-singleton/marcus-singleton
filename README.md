@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Proessional Development Projects:</h2>
 
+<b>🎓 WGU Student, B.S. Cloud Computing<b>
+
+<b>⌨️ LinuxOS & AWS Console</b>
 - KodeKloud Platform Practice
-- WGU Student, B.S. Cloud Computing
+
+<b>🐍 Python basics and scripting<b>
+- Automate The Boring Stuff with Python (Udemy)
 
 
 <!--
