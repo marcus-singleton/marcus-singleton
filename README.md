@@ -1,14 +1,14 @@
-<h1>Hi, I'm Marcus! <br/>Cloud Professional, Student, Python Programmer</h1>
+<h1>Hi, I'm Marcus! <br/>IT Administration and Security in AWS is my Focus</h1>
 
-<h2>👨‍💻 Proessional Development Projects:</h2>
+<h2>👨‍💻 Professional Development Activities:</h2>
 
-<b>🎓 WGU Student, B.S. Cloud Computing<b>
+  <b>🎓 WGU Student, B.S. Cloud Computing<b>
 
-<b>⌨️ LinuxOS & AWS Console</b>
-- KodeKloud Platform Practice
+  <b>⌨️ LinuxOS & AWS Console</b>
+  - KodeKloud Platform Practice
 
-<b>🐍 Python basics and scripting<b>
-- Automate The Boring Stuff with Python (Udemy)
+  <b>🐍 Python Basics and Scripting<b>
+  - Automate The Boring Stuff with Python (Udemy)
 
 
 <!--
