@@ -1,14 +1,24 @@
-<h1>Hi, I'm Marcus! <br/>IT Administration and Security in AWS is my Focus</h1>
+<h1>Hi, I'm Marcus! <br/>My Focus is on System Administration and Security within Linux and AWS </h1>
 
-<h2>👨‍💻 Professional Development Activities:</h2>
+<h2>👨‍💻 Professional Development Activities In-Progress:</h2>
 
-  <b>🎓 WGU Student, B.S. Cloud Computing<b>
+  <b>🎓 WGU B.S. Cloud Computing Program<b>
 
-  <b>⌨️ LinuxOS & AWS Console</b>
-  - KodeKloud Platform Practice
+  <b>🌐 KodeKloud Platform Practice</b>
+  - ⌨️ LinuxOS
+  - AWS Console
 
-  <b>🐍 Python Basics and Scripting<b>
+  <b>🐍 Learning Python Basics and Scripting<b>
   - Automate The Boring Stuff with Python (Udemy)
+
+<h2>🏗️ Projects With Skills Developed</h2>
+
+| [SOC Lab in Azure](https://github.com/marcus-singleton/azure_soc_lab) | Skills                                          |
+|-----------------------------------------------------------------------|-------------------------------------------------|
+|                                                                       | SIEM Implementation and Log Analysis            |
+|                                                                       | Network Traffic Monitoring and Attack Detection |
+|                                                                       | Managing Linux & Windows VMs                    |
+   
 
 
 <!--
