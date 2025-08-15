@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcus! <br/>My Focus is on System Administration and Security in Linux and AWS </h1>
+<h1>Hi, I'm Marcus! <br/>I'm Focused on System Administration and Security in Linux + AWS </h1>
 
 <h2>👨‍💻 Professional Development Activities In-Progress:</h2>
 
