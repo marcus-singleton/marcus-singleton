@@ -1,37 +1,26 @@
-<h1>Hi, I'm Marcus! <br>My Focus is on administration and security in Linux, AWS, and Docker containers. </h1>
+# Hi, I'm Marcus 👋
 
-<h2>👨‍💻 Professional Development Activities In-Progress:</h2>
+Site Reliability / Platform Engineer, currently open to SRE and Platform Engineering roles. Certified Kubernetes Administrator (90%). I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
 
-  <b>🎓 WGU B.S. Cloud Computing Program<b>
+📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Portfolio](https://singletons.craft.me/resume_webpage)
 
-  <b>🌐 KodeKloud Platform Practice</b>
-  - ⌨️ LinuxOS
-  - AWS Console
+## 🏗️ Featured: Homelab Infrastructure
 
-  <b>🐍 Learning Python Basics and Scripting<b>
-  - Automate The Boring Stuff with Python (Udemy)
+**[homelab-infrastructure](https://github.com/marcus-singleton/homelab-infrastructure)** — production-grade self-hosted infrastructure running real services for my household, live and actively maintained since December 2024.
 
-<h2>🏗️ Projects With Skills Developed</h2>
+- **MTTR:** 30 min → under 5 min
+- **Operational toil:** 10+ hrs/week → under 2 hrs/week
+- **100% availability** through DNS failover
+- Full observability stack (Prometheus, Grafana, Loki), zero-trust secrets (1Password CLI), Traefik + automated TLS, K3s + GitOps in progress
 
-| [SOC Lab in Azure](https://github.com/marcus-singleton/azure_soc_lab) | Skills                                          |
-|-----------------------------------------------------------------------|-------------------------------------------------|
-|                                                                       | SIEM Implementation and Log Analysis            |
-|                                                                       | Network Traffic Monitoring and Attack Detection |
-|                                                                       | Managing Linux & Windows VMs                    |
-   
+## 🎓 Certifications & In Progress
 
+- **Certified Kubernetes Administrator (CKA)** — 90%. [Wrote up what actually changed between a failed first attempt and passing](https://www.linkedin.com/in/msingleton18) — turns out it wasn't a time-management problem, it was closing real practice gaps.
+- **CKS (Certified Kubernetes Security Specialist)** — next up.
+- **WGU B.S. Cloud Computing** — in progress.
 
-<!--
-**marcus-singleton/marcus-singleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 What I care about
 
-Here are some ideas to get you started:
+Ten years in Army intelligence before this. I care about infrastructure that's honest about its own failure modes — documented incident response, SLOs that mean something, and postmortems that actually get written. Currently building toward healthcare-serving tech, where the compliance/security bar is real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/msingleton18) if you're building or hiring in SRE/Platform Engineering.
