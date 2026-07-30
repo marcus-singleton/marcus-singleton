@@ -23,4 +23,4 @@ Site Reliability / Platform Engineer, currently open to SRE and Platform Enginee
 
 Ten years in Army intelligence before this. I care about infrastructure that's honest about its own failure modes — documented incident response, SLOs that mean something, and postmortems that actually get written.
 
-📫 Reach out on [LinkedIn](https://www.linkedin.com/in/msingleton18) if you're building or hiring in SRE/Platform Engineering.
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/msingleton18) if you're building or hiring in SRE/Kubernetes Engineering.
