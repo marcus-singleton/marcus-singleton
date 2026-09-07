@@ -1,6 +1,6 @@
 # Hi, I'm Marcus 👋
 
-Site Reliability / Platform Engineer, currently open to SRE and Platform Engineering roles. Certified Kubernetes Administrator (90%). I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
+Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. Certified Kubernetes Administrator (90%). I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
 
 📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Portfolio](https://singletons.craft.me/resume_webpage)
 
@@ -11,13 +11,14 @@ Site Reliability / Platform Engineer, currently open to SRE and Platform Enginee
 - **MTTR:** 30 min → under 5 min
 - **Operational toil:** 10+ hrs/week → under 2 hrs/week
 - **100% availability** through DNS failover
-- Full observability stack (Prometheus, Grafana, Loki), zero-trust secrets (1Password CLI), Traefik + automated TLS, K3s + GitOps in progress
+- **99.9% availability SLO** tracked on a custom PromQL dashboard
+- 3-node K3s cluster (version-pinned), full observability stack (Prometheus, Grafana, Loki), zero-trust secrets (1Password CLI), Traefik + automated TLS
 
 ## 🎓 Certifications & In Progress
 
 - **Certified Kubernetes Administrator (CKA)** — 90%. [Wrote up what actually changed between a failed first attempt and passing](https://www.linkedin.com/in/msingleton18) — turns out it wasn't a time-management problem, it was closing real practice gaps.
-- **CKS (Certified Kubernetes Security Specialist)** — next up.
-- **WGU B.S. Cloud Computing** — in progress.
+- **WGU B.S. Cloud and Network Engineering** (AWS focus) — in progress.
+- **Currently building:** Terraform, then Ansible, then CI/CD.
 
 ## 🧭 What I care about
 
