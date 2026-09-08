@@ -2,7 +2,7 @@
 
 Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. Certified Kubernetes Administrator (90%). I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
 
-📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Portfolio](https://singletons.craft.me/resume_webpage)
+📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Resume & Case Studies](https://singletons.craft.me/resume_webpage)
 
 ## 🏗️ Featured: Homelab Infrastructure
 
@@ -13,6 +13,11 @@ Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastruct
 - **100% availability** through DNS failover
 - **99.9% availability SLO** tracked on a custom PromQL dashboard
 - 3-node K3s cluster (version-pinned), full observability stack (Prometheus, Grafana, Loki), zero-trust secrets (1Password CLI), Traefik + automated TLS
+
+## 🔧 Other Projects
+
+- **[home-network-rebuild](https://github.com/marcus-singleton/home_network_rebuild)** — rebuilt my home network from a flat single-VLAN setup into a 5-VLAN architecture (home, camera, IoT, guest, management) with zone-based default-deny firewall policies and a dedicated management network.
+- **[devlab](https://github.com/marcus-singleton/devlab)** *(ongoing)* — a DevPod devcontainer base image for infra/DevOps work (Terraform, Ansible, kubectl, Helm, AWS CLI, 1Password CLI preloaded). Built to standardize my own tooling environment as the skill set grows, not a finished deliverable.
 
 ## 🎓 Certifications & In Progress
 
