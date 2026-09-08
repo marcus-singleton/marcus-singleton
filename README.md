@@ -1,6 +1,6 @@
 # Hi, I'm Marcus 👋
 
-Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. Certified Kubernetes Administrator (90%). I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
+Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. Certified Kubernetes Administrator. I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
 
 📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Resume & Case Studies](https://singletons.craft.me/resume_webpage)
 
@@ -21,7 +21,7 @@ Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastruct
 
 ## 🎓 Certifications & In Progress
 
-- **Certified Kubernetes Administrator (CKA)** — 90%. [Wrote up what actually changed between a failed first attempt and passing](https://www.linkedin.com/in/msingleton18) — turns out it wasn't a time-management problem, it was closing real practice gaps.
+- **Certified Kubernetes Administrator (CKA)** — [Wrote up what actually changed between a failed first attempt and passing](https://www.linkedin.com/in/msingleton18) — turns out it wasn't a time-management problem, it was closing real practice gaps.
 - **WGU B.S. Cloud and Network Engineering** (AWS focus) — in progress.
 - **Currently building:** Terraform, then Ansible, then CI/CD.
 
