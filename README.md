@@ -1,12 +1,12 @@
 # Hi, I'm Marcus 👋
 
-Site Reliability Engineer, currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. Certified Kubernetes Administrator. I build production-grade infrastructure the way I'd want to inherit it — documented, observable, and boring in the ways that matter.
+I keep systems observable and recoverable — shortening the time between a failure happening and someone catching it, and automating away the toil that causes people to miss it. Currently open to SRE, DevOps, Cloud, and Infrastructure Engineering roles. In my own self-hosted environment: MTTR 30 min → under 5, 99.9% SLO with real error-budget tracking, zero hardcoded secrets. Certified Kubernetes Administrator.
 
 📍 Tucson, Arizona · [LinkedIn](https://www.linkedin.com/in/msingleton18) · [Resume & Case Studies](https://singletons.craft.me/resume_webpage)
 
 ## 🏗️ Featured: Homelab Infrastructure
 
-**[homelab-infrastructure](https://github.com/marcus-singleton/homelab-infrastructure)** — production-grade self-hosted infrastructure running real services for my household, live and actively maintained since December 2024.
+**[homelab-infrastructure](https://github.com/marcus-singleton/homelab-infrastructure)** — self-hosted infrastructure running real services for my household, live and actively maintained since December 2024.
 
 - **MTTR:** 30 min → under 5 min
 - **Operational toil:** 10+ hrs/week → under 2 hrs/week
